@@ -1,0 +1,13 @@
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\bin\Release\Gamma_luminance.exe.manifest
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\bin\Release\Gamma_luminance.application
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\bin\Release\Gamma_luminance.exe
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\bin\Release\Gamma_luminance.pdb
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\bin\Release\ST7701S_NB_Gamma.dll
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\obj\x86\Release\Gamma_luminance.Form1.resources
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\obj\x86\Release\Gamma_luminance.Properties.Resources.resources
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\obj\x86\Release\Gamma_luminance.csproj.GenerateResource.Cache
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\obj\x86\Release\Gamma_luminance.exe.manifest
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\obj\x86\Release\Gamma_luminance.application
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\obj\x86\Release\Gamma_luminance.exe
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\obj\x86\Release\Gamma_luminance.pdb
+L:\LCD\doc\LCD Module\ST7701S\doc\公式\Gamma_luminance\Gamma_luminance\obj\x86\Release\Gamma_luminance.csprojResolveAssemblyReference.cache
